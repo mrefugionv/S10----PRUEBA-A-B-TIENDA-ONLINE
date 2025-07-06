@@ -1,4 +1,7 @@
 # S10----PRUEBA-A-B-TIENDA-ONLINE
+Lanzamiento y análisis de prueba A/B para una tienda online. Framework priorización de hipótesis, métricas acumuladas, percentiles y método estadístico Mann-Whitney. 
+
+## Descripción
 Lanzamiento y análisis de prueba A/B para una tienda online.
 
 Uso de frameworks para priorizar hipótesis se apoya la decisión de qué prueba A/B lanzar.
@@ -10,7 +13,6 @@ Cálculo de metricas acumuladas nos permite ir revisando los progresos de la pru
 Cálculo de percentiles y gráficas de dispersión para la identificar valores atípicos. Percentil 99, indica cual es el valor a partir del cual se encuentra solo el 1% de la muestra.
 Método de Mann-Whitney para conocer la significaca estadística de la diferencia entre dos poblaciones.
 
-## Descripción
 
 ## Herramientas utilizadas
 ![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
